@@ -1,4 +1,4 @@
-# Recyclability indicator tester
+# Recyclability indicator
 
 Supplementary code for Framework for Recyclability Indicator Development: Bridging Product Design and Recycling Technology - Resources,Conservation & Recycling, 2026 .  
 DOI: [add once published]
@@ -30,5 +30,11 @@ jupyter notebook notebooks/
 ```
 
 ## How to cite
+
+## Acknowledgements
+
+- The authors were supported by Swiss State Secretariat for Education, Research and Innovation (SERI) under contract number 22.00489 in the frame of Horizon Europe [“CE-RISE: Circular Economy Resource Information System”](https://ce-rise.eu) co-funded by the [European Union project 101092281](https://cordis.europa.eu/project/id/101092281/reporting). 
+
+- The authors acknowledge the use of Claude (Anthropic) via Abacus.ai for providing code-generation support during the development of the uncertainty and sensitivity analysis framework. The final code execution, data interpretation and scientific conclusions remain solely the responsibility of the authors.
 
 
