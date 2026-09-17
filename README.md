@@ -1,7 +1,6 @@
 # Recyclability indicator
 
-Supplementary code for Framework for Recyclability Indicator Development: Bridging Product Design and Recycling Technology - Resources,Conservation & Recycling, 2026 .  
-DOI: [add once published]
+Supplementary code for Framework for Recyclability Indicator Development: Bridging Product Design and Recycling Technology - Journal of Cleaner Production, 2026 (Submitted)  
 
 ## Contents
 
